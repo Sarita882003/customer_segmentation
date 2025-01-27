@@ -22,7 +22,7 @@ This project analyzes a mall's customer dataset by focusing on two key fields: *
 ## Getting Started  
 1. **Clone the repository**:  
    ```bash
-   git clone <repository_link>
+   git clone <customer_segmentation.ipynb>
 2.**Install dependencies:**
 Ensure Python is installed, then run:
   pip install -r requirements.txt
